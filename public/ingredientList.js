@@ -1,3 +1,5 @@
+const ingredientList = {}
+
 // The array of ingredients the user can add to a sandwich
 //  This will be updated after we fetch.
 let ingredients = [];
